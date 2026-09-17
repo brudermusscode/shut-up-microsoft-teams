@@ -1,11 +1,11 @@
 # shut up microsof teams
 Filters for uBlock Origin to block any popup bubble that could annoy while being in a meeting.
 
+## to block, do the following
+
 >[!TIP]
 >If you are still using google chrome, please stop. It's time to change!
 
-
-## to block, do the following
 1. use any fork of `Mozilla Firefox`, I recommend `LibreWolf`, `Waterfox` or `Zen Browser`.
 2. install uBlock Origin from here: https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/
 3. go to uBlock Origin settings and insert the following into the filters:
