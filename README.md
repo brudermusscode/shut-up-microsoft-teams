@@ -2,8 +2,9 @@
 Filters for uBlock Origin to block any popup bubble that could annoy while being in a meeting.
 
 ## to block, do the following
-1. Use any fork of `Mozilla Firefox` and install uBlock Origin from here: https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/
-2. Go to uBlock Origin settings and insert the following into the filters:
+1. use any fork of `Mozilla Firefox`, I recommend `LibreWolf`, `Waterfox` or `Zen Browser`.
+2. install uBlock Origin from here: https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/
+3. go to uBlock Origin settings and insert the following into the filters:
 ```
 ! Aug 28, 2026 https://teams.cloud.microsoft
 teams.cloud.microsoft##.f15qm25u.f122n59.f22iagw.___101i5ho.vdi-occlusion.fui-Flex
